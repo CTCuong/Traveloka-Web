@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinfast</title>
+    <!--swiper css-->
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+    <!--font awesome link-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- css file link -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <!-- header section starts -->
+    <section class="header">
+        <a href="home.php" class="logo">Traveloka.</a>
+
+        <nav class="navbar">
+            <a href="home.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="package.php">Package</a>
+            <a href="book.php">Book</a>
+
+        </nav>
+
+        <div id="menu-btn" class="fas fa-bars"></div>
+    </section>
+    <!-- header section ends -->
+
+    <!-- home section starts -->
+    <section class="home">
+
+        <div class="swiper home-slider">
+
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide slide" style="background: url(/assets/image/Content/1.jpg) no-repeat;">
+                    <div class="content">
+                        <span>tràn an, ninh bình</span>
+                        <h3>travel arround việt nam</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide" style="background: url(/assets/image/Content/3.jpg) no-repeat;">
+                    <div class="content">
+                        <span>phố cổ hội an, đà nẵng</span>
+                        <h3>discover the new places</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide" style="background: url(/assets/image/Content/2.jpg) no-repeat;">
+                    <div class="content">
+                        <span>phú quốc, vịnh thái lan</span>
+                        <h3>make your tour worth while</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </section>
+    <!-- home section ends -->
+
+    <!-- home about section strats -->
+    <section class="home-about">
+
+        <div class="image">
+            <img src="/assets/image/About/1.jpg" alt="">
+        </div>
+
+        <div class="content">
+            <h3>about us</h3>
+            <p>traveloka là một công ty du lịch trực tuyến hàng đầu tại Việt Nam. Chúng tôi cung cấp các dịch vụ đặt phòng khách sạn, vé máy bay,
+             và các gói tour du lịch đa dạng, phục vụ nhu cầu của hàng triệu khách hàng trong và ngoài nước. Chúng tôi cam kết mang đến trải nghiệm 
+             đặt phòng và du lịch thuận tiện, nhanh chóng và tiết kiệm cho người dùng.</p>
+            <a href="about.php" class="btn"> read more</a>
+        </div>
+    </section>
+
+    <!-- home about section ends -->
+
+    <!-- home package section starts -->
+    <section class="home-packages">
+
+         
+        
+        <div class="box-container">
+
+            <div class="box">
+                <div class="image">
+                    <img src="/assets/image/Packages/1.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3> adventure & tour </h3>
+                    <p>Địa điểm du lịch Hạ Long Quảng Ninh là một trong những điểm đến hấp dẫn bậc nhất nước ta. </p>
+                    <a href="book.php" class="btn"> book now </a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="/assets/image/Packages/3.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3> adventure & tour </h3>
+                    <p> Cần Thơ là một trong những điểm du lịch miền Tây Nam Bộ hấp dẫn hàng đầu. Các địa điểm du lịch Cần Thơ nổi tiếng phải kể đến như  bến Ninh Kiều, chợ Đêm, đảo ngọt Cù Lao, nhà cổ Bình Thủy,... </p>
+                    <a href="book.php" class="btn"> book now </a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="/assets/image/Packages/2.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3> adventure & tour </h3>
+                    <p>Du lịch Phú Quốc nổi tiếng với những bãi biển đẹp, hoang sơ như Bãi Sao, Bãi Dài, Gành Dầu,...</p>
+                    <a href="book.php" class="btn"> book now </a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="load-more"> <a href="package.php" class="btn">load more</a></div>
+
+    </section>
+    <!-- home package section ends -->
+
+    <!-- home offer section starts -->
+
+    <section class="home-offer">
+
+        <div class="content">
+
+            <h3> upto 50% off</h3>
+            <p>Mùa hè đã đến và chúng tôi muốn mang đến cho bạn một mùa hè tuyệt vời nhất với chương trình SALE 50% 
+            tour đi du lịch. Cùng gia đình, bạn bè hay người thân đồng hành, hòa mình vào thiên nhiên hoang sơ, khám 
+            phá những điểm đến đẹp như tranh vẽ và thưởng thức những món ăn đặc sản tại những vùng miền mới lạ. 
+            Chúng tôi cam kết mang đến cho bạn chuyến du lịch an toàn, thoải mái và đầy hứng thú. Đừng để tiền bạc là rào cản giữa bạn và những trải nghiệm tuyệt vời. Hãy nhanh chân đặt tour ngay hôm nay để không bỏ lỡ cơ hội tận hưởng mùa hè trọn vẹn với ưu đãi SALE 50%!</p>
+            <a href="book.php"class="btn"> book now </a>
+        </div>
+    </section>
+    <!-- home offer section ends -->
+
+
+
+    
+    <!-- services section starts -->
+    <section class="services">
+        <h1 class="heading-title"> our services </h1>
+        
+        <div class="box-container">
+            
+            <div class="box">
+                <img src="/assets/image/Services/1.png" alt="">
+                <h3> adventure </h3>
+            </div>
+
+            <div class="box">
+                <img src="/assets/image/Services/2.png" alt="">
+                <h3> tour guide </h3>
+            </div>
+
+            <div class="box">
+                <img src="/assets/image/Services/3.png" alt="">
+                <h3> trekking </h3>
+            </div>
+
+
+            <div class="box">
+                <img src="/assets/image/Services/4.png" alt="">
+                <h3> cam fire </h3>
+            </div>
+
+            <div class="box">
+                <img src="/assets/image/Services/5.png" alt="">
+                <h3> off road </h3>
+            </div>
+
+            <div class="box">
+                <img src="/assets/image/Services/6.png" alt="">
+                <h3> camping </h3>
+            </div>
+
+        </div>
+    </section>
+    <!-- services section ends -->
+
+
+
+    <!-- footer section starts -->
+
+    <section class="footer">
+        <div class="box-container">
+
+            <div class="box">
+                <h3>quick links</h3>
+                <a href="home.php"><i class="fas fa-angle-right"></i>Home</a>
+                <a href="about.php"><i class="fas fa-angle-right"></i>About</a>
+                <a href="package.php"><i class="fas fa-angle-right"></i>Package</a>
+                <a href="book.php"><i class="fas fa-angle-right"></i>Book</a>
+            </div>
+
+            <div class="box">
+                <h3>extra links</h3>
+                <a href="#"><i class="fas fa-angle-right"></i> ask question</a>
+                <a href="#"><i class="fas fa-angle-right"></i> about us</a>
+                <a href="#"><i class="fas fa-angle-right"></i> privacy policy</a>
+                <a href="#"><i class="fas fa-angle-right"></i> terms of use</a>
+            </div>
+
+            <div class="box">
+                <h3>contract info</h3>
+                <a href="#"><i class="fas fa-phone"></i> +84 098-326-789 </a>
+                <a href="#"><i class="fas fa-phone"></i> +84 023-908-7865 </a>
+                <a href="#"><i class="fas fa-envelope"></i> travekhanas@gmail.com </a>
+                <a href="#"><i class="fas fa-map"></i> HaNoi, VietNam   </a>
+            </div>
+
+            <div class="box">
+                <h3>follow us</h3>
+                <a href="#"><i class="fab fa-facebook"></i> facebook </a>
+                <a href="#"><i class="fab fa-twitter"></i> twitter </a>
+                <a href="#"><i class="fab fa-instagram"></i> instagram </a>
+                <a href="#"><i class="fab fa-telegram"></i> telegram </a>
+            </div>
+
+        </div>
+
+        <div class="credit"> created by <span>mr. Cao Tran Cuong</span> | all rights reserved! </div>
+    </section>
+    <!-- footer section ends -->
+    
+    <!--swiper js-->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <!-- js file link --> 
+    <script src="/assets/js/scrip.js"></script>
+</body>
+</html>
