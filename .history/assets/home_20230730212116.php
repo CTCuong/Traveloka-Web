@@ -230,7 +230,7 @@
 
         </div>
 
-        <div class="credit"> created by <span>Team</span> | all rights reserved! </div>
+        <div class="credit"> created by <span>mr. Cao Tran Cuong</span> | all rights reserved! </div>
     </section>
     <!-- footer section ends -->
     

@@ -48,9 +48,9 @@
 
         <div class="content">
             <h3>why choose us?</h3>
-            <p>TravelPal cung cấp nhiều lựa chọn du lịch phong phú, bao gồm vé máy bay, khách sạn, xe đưa đón và 
+            <p>Traveloka cung cấp nhiềua chọn du lịch phong phú, bao gồm vé máy bay, khách sạn, xe đưa đón và 
             các trải nghiệm du lịch. Sự đa dạng này cho phép bạn tùy chỉnh kế hoạch du lịch theo sở thích và ngân sách của mình.</p>
-            <p>TravelPal thường xuyên cung cấp các ưu đãi và khuyến mãi độc quyền, giúp bạn tiết kiệm hơn nữa cho chuyến du lịch 
+            <p>Traveloka thường xuyên cung cấp các ưu đãi và khuyến mãi độc quyền, giúp bạn tiết kiệm hơn nữa cho chuyến du lịch 
             của mình. Từ những giảm giá theo mùa đến các ưu đãi có thời hạn, những chương trình này giúp cho giấc mơ du lịch của bạn trở nên dễ dàng hơn.</p>
 
             <div class="icons-container">
@@ -219,7 +219,7 @@
 
         </div>
 
-        <div class="credit"> created by <span>Team</span> | all rights reserved! </div>
+        <div class="credit"> created by <span></span> | all rights reserved! </div>
     </section>
     <!-- footer section ends -->
 

@@ -219,7 +219,7 @@
 
         </div>
 
-        <div class="credit"> created by <span>Team</span> | all rights reserved! </div>
+        <div class="credit"> created by <span></span> | all rights reserved! </div>
     </section>
     <!-- footer section ends -->
 

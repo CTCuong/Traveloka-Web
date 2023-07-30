@@ -14,7 +14,7 @@
 <body>
     <!-- header section starts -->
     <section class="header">
-        <a href="home.php" class="logo">TravelPal.</a>
+        <a href="home.php" class="logo">Travel.</a>
 
         <nav class="navbar">
             <a href="home.php">Home</a>
@@ -75,7 +75,7 @@
 
         <div class="content">
             <h3>about us</h3>
-            <p>travelPal là một công ty du lịch trực tuyến hàng đầu tại Việt Nam. Chúng tôi cung cấp các dịch vụ đặt phòng khách sạn, vé máy bay,
+            <p>traveloka là một công ty du lịch trực tuyến hàng đầu tại Việt Nam. Chúng tôi cung cấp các dịch vụ đặt phòng khách sạn, vé máy bay,
              và các gói tour du lịch đa dạng, phục vụ nhu cầu của hàng triệu khách hàng trong và ngoài nước. Chúng tôi cam kết mang đến trải nghiệm 
              đặt phòng và du lịch thuận tiện, nhanh chóng và tiết kiệm cho người dùng.</p>
             <a href="about.php" class="btn"> read more</a>
@@ -230,7 +230,7 @@
 
         </div>
 
-        <div class="credit"> created by <span>Team</span> | all rights reserved! </div>
+        <div class="credit"> created by <span>mr. Cao Tran Cuong</span> | all rights reserved! </div>
     </section>
     <!-- footer section ends -->
     
